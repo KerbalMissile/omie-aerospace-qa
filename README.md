@@ -1,6 +1,6 @@
 # Omie Aerospace QA
 
-Small hand-curated set of aerospace engineering Q&A pairs. Built as one of the training sources for [Omie](https://github.com/KerbalMissile), a small from-scratch language model.
+Small hand-curated set of aerospace engineering Q&A pairs. Built as one of the training sources for Omie, a small from-scratch language model.
 
 83 pairs, single-turn. Covers propulsion basics (Isp, delta-v, staging, engine types, nozzles), orbital mechanics (Hohmann transfers, geostationary orbit, escape velocity), aerodynamics (stall, drag, Mach, sonic booms), reentry/materials (Inconel, ablative heat shields), and flight computer / hobby rocketry stuff (apogee detection, static margin, N2O/ethanol, hybrids).
 
